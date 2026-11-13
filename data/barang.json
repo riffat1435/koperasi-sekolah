@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+        "nama": "Pulpen",
+        "harga": 3000,
+        "stok": 50
+    },
+    {
+        "id": 2,
+        "nama": "Buku Tulis",
+        "harga": 5000,
+        "stok": 40
+    },
+    {
+        "id": 3,
+        "nama": "Pensil",
+        "harga": 2000,
+        "stok": 60
+    },
+    {
+        "id": 4,
+        "nama": "Penghapus",
+        "harga": 1500,
+        "stok": 30
+    },
+    {
+        "id": 5,
+        "nama": "Penggaris",
+        "harga": 4000,
+        "stok": 20
+    },
+    {
+        "id": 6,
+        "nama": "Roti Cokelat",
+        "harga": 4000,
+        "stok": 25
+    }
+]
